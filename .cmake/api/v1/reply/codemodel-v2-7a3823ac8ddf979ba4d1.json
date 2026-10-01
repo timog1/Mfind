@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mfind",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "argstest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-argstest-Debug-b2af41e9716536f052b0.json",
+					"name" : "argstest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "filesize_filter_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-filesize_filter_test-Debug-60d7f9e4453ebc278f01.json",
+					"name" : "filesize_filter_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mfind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mfind-Debug-3535f5f35c9d46f228c9.json",
+					"name" : "mfind",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mymatchtest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mymatchtest-Debug-433f9a15ab5d68babc92.json",
+					"name" : "mymatchtest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hi/projects/mfind",
+		"source" : "/home/hi/projects/mfind"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
