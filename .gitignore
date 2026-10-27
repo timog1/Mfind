@@ -2,3 +2,22 @@
 /build/
 /cmake-build-debug/
 /CMakeFiles/
+# Build-Artefakte
+*.o
+mfind
+argstest
+filesize_filter_test
+mymatchtest
+
+# CMake
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+.cmake/
+
+# IDE
+.idea/
+
+# Testausgaben
+error.txt
+output.txt
